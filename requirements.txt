@@ -1,0 +1,7 @@
+streamlit>=1.32.0
+openai>=1.0.0
+Pillow>=10.0.0
+librosa>=0.10.0
+resemblyzer>=0.1.1
+opencv-python-headless>=4.9.0
+numpy>=1.26.0
